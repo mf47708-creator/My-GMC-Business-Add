@@ -1,0 +1,6 @@
+{
+  "name": "Air Time Black Car & SUV Service",
+  "description": "Premium luxury chauffeur and black SUV transportation service serving Edmonton and surrounding areas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
